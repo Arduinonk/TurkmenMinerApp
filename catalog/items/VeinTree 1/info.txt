@@ -1,0 +1,4 @@
+Sky Adventure
+1.2
+Explore floating islands with custom mobs, ores, and treasures. Includes new crafting recipes and hidden dungeons.
+Works in Survival and Creative. Multiplayer compatible.
